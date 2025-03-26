@@ -15,3 +15,14 @@ Submission:
 Prepare a final Excel file with your analysis, visualization, and a one-page summary explaining your insights and recommendation
 
 Date of Submission: 23/03/2025
+
+PROJECT PROCESS SUMMARY
+Project Objectives Review – Assessed the goals of the project, focusing on evaluating sales performance, identifying trends, and providing actionable recommendations for improvement.
+
+Data Cleaning & Analysis – Collected and refined sales data across different countries, analyzing regional performance, retailer impact, product preferences, and purchasing patterns over time.
+
+Key Insights Identified – Found that Nigeria led in sales due to a strong retailer network, while Senegal and Egypt lagged, likely due to weaker distribution. Retailer D performed best, selling more low-end products. Sales dipped in February, August, and November, with a peak in December. Customers favored in-store shopping, possibly due to trust issues with online sales.
+
+Developing Recommendations – Proposed expanding retailer incentives in low-performing regions, increasing the availability of popular low-end products, launching targeted campaigns during low-sales months, and improving online sales strategies to build customer trust.
+
+Report Structuring & Presentation – Organized findings in a clear format, ensuring insights and recommendations were distinctly outlined for easy interpretation and actionability.
